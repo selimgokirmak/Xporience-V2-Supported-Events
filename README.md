@@ -11,7 +11,9 @@ Supports multiple Xporience trade fair websites with a consistent HTML structure
 
 ## 🔎 Testing Exhibitor List URLs for FREE
 
-Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
+
+- Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
 
 
 ## 👇 Check My Other Exhibitor List Scrapers
@@ -30,18 +32,18 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
+- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+
+- [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
-This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Xporience exhibitor lists.
+- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Xporience exhibitor lists below.
 
-### ❓ How to identify a supported website:
+- Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-✅ Exhibitor listing page URL usually starts with `https://exhibitors.` ends with `/Exhibitor`.
-
-- An example event website URL: https://exhibitors.gitex.com/gitex-global-2025/Exhibitor
-
-✅ Exhibitor listing page format should be the same as the sample websites below.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
 
 
 ## 🌐 Supported Xporience Events (Exhibitor Lists)
@@ -50,10 +52,20 @@ This scraper is designed to extract data from exhibitor directories with the sam
 
 - [GITEX GLOBAL DWTC 2025 Exhibitor List](https://exhibitors.gitex.com/gitex-global-2025/Exhibitor)
 
-- [Dubai International Boat Show 2025 Exhibitor List](https://exhibitors-dwtc.exhibitoronlinemanual.com/dibs-2025/Exhibitor/)
+- [Dubai International Boat Show 2025 Exhibitor List](https://exhibitors.gitex.com/dibs-2025/Exhibitor/)
 
 - [GISEC Global 2025 Exhibitor List](https://exhibitors.gisec.ae/gisec-global-2025/Exhibitor)
 
-- [Fintech Surge 2025 Exhibitor List](https://exhibitors-dwtc.exhibitoronlinemanual.com/fintech-surge-2025/Exhibitor)
+- [Fintech Surge 2025 Exhibitor List](https://exhibitors.gitex.com/fintech-surge-2025/Exhibitor)
 
-- [Future Blockchain Summit 2025 Exhibitor List](https://exhibitors-dwtc.exhibitoronlinemanual.com/future-blockchain-summit-2025/Exhibitor)
+- [Future Blockchain Summit 2025 Exhibitor List](https://exhibitors.gitex.com/future-blockchain-summit-2025/Exhibitor)
+
+- [GITEX EUROPE 2025 Exhibitor List](https://exhibitors.gitex.com/gitex-europe-2025/Exhibitor)
+
+- [Expand North Star 2025 Exhibitor List](https://exhibitors.expandnorthstar.com/expand-north-star-2025/Exhibitor)
+
+- [AI Everything GLOBAL 2025 Exhibitor List](https://exhibitors.gitex.com/ai-everything-global-2025/Exhibitor)
+
+- [Gitex Africa 2025 Exhibitor List](https://exhibitors.gitexafrica.com/gitex-africa-2025/Exhibitor)
+
+- [Indo Pacific 2025 Exhibitor List](https://exhibitors.indopacificexpo.com.au/indo-pacific-2025/Exhibitor)
