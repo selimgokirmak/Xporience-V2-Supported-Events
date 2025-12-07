@@ -56,22 +56,22 @@ Supports multiple Xporience trade fair websites with a consistent HTML structure
 
 **Note:** *The following partial list includes Xporience exhibitor directory URLs that have been tested so far. Other Xporience or different events with the same website structure may also be supported.*
 
-- [GITEX GLOBAL DWTC 2025 Exhibitor List - exhibitors.gitex.com](https://exhibitors.gitex.com/gitex-global-2025/Exhibitor)
+- [GITEX GLOBAL DWTC 2025 Exhibitor List – exhibitors.gitex.com](https://exhibitors.gitex.com/gitex-global-2025/Exhibitor)
 
-- [Dubai International Boat Show 2025 Exhibitor List - exhibitors.gitex.com](https://exhibitors.gitex.com/dibs-2025/Exhibitor/)
+- [Dubai International Boat Show 2025 Exhibitor List – exhibitors.gitex.com](https://exhibitors.gitex.com/dibs-2025/Exhibitor/)
 
-- [GISEC Global 2025 Exhibitor List - exhibitors.gisec.ae](https://exhibitors.gisec.ae/gisec-global-2025/Exhibitor)
+- [GISEC Global 2025 Exhibitor List – exhibitors.gisec.ae](https://exhibitors.gisec.ae/gisec-global-2025/Exhibitor)
 
-- [Fintech Surge 2025 Exhibitor List - exhibitors.gitex.com](https://exhibitors.gitex.com/fintech-surge-2025/Exhibitor)
+- [Fintech Surge 2025 Exhibitor List – exhibitors.gitex.com](https://exhibitors.gitex.com/fintech-surge-2025/Exhibitor)
 
-- [Future Blockchain Summit 2025 Exhibitor List - exhibitors.gitex.com](https://exhibitors.gitex.com/future-blockchain-summit-2025/Exhibitor)
+- [Future Blockchain Summit 2025 Exhibitor List – exhibitors.gitex.com](https://exhibitors.gitex.com/future-blockchain-summit-2025/Exhibitor)
 
-- [GITEX EUROPE 2025 Exhibitor List - exhibitors.gitex.com](https://exhibitors.gitex.com/gitex-europe-2025/Exhibitor)
+- [GITEX EUROPE 2025 Exhibitor List – exhibitors.gitex.com](https://exhibitors.gitex.com/gitex-europe-2025/Exhibitor)
 
-- [Expand North Star 2025 Exhibitor List - exhibitors.expandnorthstar.com](https://exhibitors.expandnorthstar.com/expand-north-star-2025/Exhibitor)
+- [Expand North Star 2025 Exhibitor List – exhibitors.expandnorthstar.com](https://exhibitors.expandnorthstar.com/expand-north-star-2025/Exhibitor)
 
-- [AI Everything GLOBAL 2025 Exhibitor List - exhibitors.gitex.com](https://exhibitors.gitex.com/ai-everything-global-2025/Exhibitor)
+- [AI Everything GLOBAL 2025 Exhibitor List – exhibitors.gitex.com](https://exhibitors.gitex.com/ai-everything-global-2025/Exhibitor)
 
-- [Gitex Africa 2025 Exhibitor List - exhibitors.gitexafrica.com](https://exhibitors.gitexafrica.com/gitex-africa-2025/Exhibitor)
+- [Gitex Africa 2025 Exhibitor List – exhibitors.gitexafrica.com](https://exhibitors.gitexafrica.com/gitex-africa-2025/Exhibitor)
 
-- [Indo Pacific 2025 Exhibitor List - exhibitors.indopacificexpo.com.au](https://exhibitors.indopacificexpo.com.au/indo-pacific-2025/Exhibitor)
+- [Indo Pacific 2025 Exhibitor List – exhibitors.indopacificexpo.com.au](https://exhibitors.indopacificexpo.com.au/indo-pacific-2025/Exhibitor)
