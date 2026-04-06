@@ -26,15 +26,15 @@ Supports multiple **Xporience** trade fair websites with a consistent HTML struc
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
@@ -53,6 +53,8 @@ Supports multiple **Xporience** trade fair websites with a consistent HTML struc
 - [Ungerboeck Exhibitor List Scraper](https://apify.com/skython/ungerboeck-exhibitor-list-scraper)
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
+
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
 
 
 ## 🎯 Supported Website Structure
@@ -95,3 +97,5 @@ Supports multiple **Xporience** trade fair websites with a consistent HTML struc
 - [Gitex Africa 2025 Exhibitor List – exhibitors.gitexafrica.com/gitex-africa-2025](https://exhibitors.gitexafrica.com/gitex-africa-2025/Exhibitor)
 
 - [Indo Pacific 2025 Exhibitor List – exhibitors.indopacificexpo.com.au/indo-pacific-2025](https://exhibitors.indopacificexpo.com.au/indo-pacific-2025/Exhibitor)
+
+- [Gulfood Manufacturing 2025 Exhibitor List – exhibitors.indopacificexpo.com.au/indo-pacific-2025](https://exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2025/Exhibitor)
