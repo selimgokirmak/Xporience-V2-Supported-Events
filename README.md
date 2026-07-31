@@ -76,35 +76,47 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 > Some event URLs may have been updated or canceled entirely; please check them before using.
 
-- [AI Everything GLOBAL 2026 Exhibitor List – exhibitors.gitex.com/ai-everything-global-2026](https://exhibitors.gitex.com/ai-everything-global-2026/Exhibitor)
+- [Gitex Africa 2026 Exhibitor List – exhibitors.gitexafrica.com/gitex-africa-2026](https://exhibitors.gitexafrica.com/gitex-africa-2026/Exhibitor)
 
-- [Dubai International Boat Show 2026 Exhibitor List – exhibitors.gitex.com/dibs-2026](https://exhibitors.gitex.com/dibs-2026/Exhibitor/)
+- [GITEX EUROPE 2026 Exhibitor List – exhibitors.gitexeurope.com/gitex-europe-2026](https://exhibitors.gitexeurope.com/gitex-europe-2026/Exhibitor)
 
 - [GISEC Global 2026 Exhibitor List – exhibitors.gisec.ae/gisec-global-2026](https://exhibitors.gisec.ae/gisec-global-2026/Exhibitor)
 
-- [GITEX EUROPE 2026 Exhibitor List – exhibitors.gitex.com/gitex-europe-2026](https://exhibitors.gitex.com/gitex-europe-2026/Exhibitor)
+- [Dubai International Boat Show 2026 Exhibitor List – exhibitors.gitex.com/dibs-2026](https://exhibitors.gitex.com/dibs-2026/Exhibitor/)
 
-- [Gitex Africa 2026 Exhibitor List – exhibitors.gitexafrica.com/gitex-africa-2026](https://exhibitors.gitexafrica.com/gitex-africa-2026/Exhibitor)
+- [AI Everything GLOBAL 2026 Exhibitor List – exhibitors.gitex.com/ai-everything-global-2026](https://exhibitors.gitex.com/ai-everything-global-2026/Exhibitor)
 
-- [GITEX GLOBAL DWTC 2025 Exhibitor List – exhibitors.gitex.com/gitex-global-2025](https://exhibitors.gitex.com/gitex-global-2025/Exhibitor)
+- [GITEX GLOBAL 2026 Exhibitor List – exhibitors.gitex.com/gitex-global-2026](https://exhibitors.gitex.com/gitex-global-2026/Exhibitor)
+
+- [Gulfood 2026 Exhibitor List – exhibitors.gulfood.com/gulfood-2026](https://exhibitors.gulfood.com/gulfood-2026/Exhibitor)
+
+- [Gitex Future Health Africa 2026 Exhibitor List – exhibitors.gitexfuturehealth.com/gitex-future-health-africa-2026](https://exhibitors.gitexfuturehealth.com/gitex-future-health-africa-2026/Exhibitor)
+
+- [AI Everything Egypt 2026 Exhibitor List – exhibitors.aieverythingegypt.com/ai-mea-egypt-2026](https://exhibitors.aieverythingegypt.com/ai-mea-egypt-2026/Exhibitor)
+
+- [Gitex Asia 2026 Exhibitor List – exhibitors.gitexasia.com/gitex-asia-2026](https://exhibitors.gitexasia.com/gitex-asia-2026/Exhibitor)
+
+- [Gitex Nigeria 2026 Exhibitor List – exhibitors.gitex.com/gitex-nigeria-2026](https://exhibitors.gitex.com/gitex-nigeria-2026/Exhibitor)
+
+- [GITEX GLOBAL 2025 Exhibitor List – exhibitors.gitex.com/gitex-global-2025](https://exhibitors.gitex.com/gitex-global-2025/Exhibitor)
+
+- [Fintech Surge 2025 Exhibitor List – exhibitors.gitex.com/fintech-surge-2025](https://exhibitors.gitex.com/fintech-surge-2025/Exhibitor/)
+
+- [Future Blockchain Summit 2025 Exhibitor List – exhibitors.gitex.com/future-blockchain-summit-2025](https://exhibitors.gitex.com/future-blockchain-summit-2025/Exhibitor/)
 
 - [Dubai International Boat Show 2025 Exhibitor List – exhibitors.gitex.com/dibs-2025](https://exhibitors.gitex.com/dibs-2025/Exhibitor/)
 
-- [Fintech Surge 2025 Exhibitor List – exhibitors.gitex.com/fintech-surge-2025](https://exhibitors.gitex.com/fintech-surge-2025/Exhibitor)
-
-- [Future Blockchain Summit 2025 Exhibitor List – exhibitors.gitex.com/future-blockchain-summit-2025](https://exhibitors.gitex.com/future-blockchain-summit-2025/Exhibitor)
-
-- [GITEX EUROPE 2025 Exhibitor List – exhibitors.gitex.com/gitex-europe-2025](https://exhibitors.gitex.com/gitex-europe-2025/Exhibitor)
+- [GITEX EUROPE 2025 Exhibitor List – exhibitors.gitex.com/gitex-europe-2025](https://exhibitors.gitex.com/gitex-europe-2025/Exhibitor/)
 
 - [Expand North Star 2025 Exhibitor List – exhibitors.expandnorthstar.com/expand-north-star-2025](https://exhibitors.expandnorthstar.com/expand-north-star-2025/Exhibitor)
 
-- [AI Everything GLOBAL 2025 Exhibitor List – exhibitors.gitex.com/ai-everything-global-2025](https://exhibitors.gitex.com/ai-everything-global-2025/Exhibitor)
+- [AI Everything GLOBAL 2025 Exhibitor List – exhibitors.gitex.com/ai-everything-global-2025](https://exhibitors.gitex.com/ai-everything-global-2025/Exhibitor/)
 
 - [Gitex Africa 2025 Exhibitor List – exhibitors.gitexafrica.com/gitex-africa-2025](https://exhibitors.gitexafrica.com/gitex-africa-2025/Exhibitor)
 
-- [Indo Pacific 2025 Exhibitor List – exhibitors.indopacificexpo.com.au/indo-pacific-2025](https://exhibitors.indopacificexpo.com.au/indo-pacific-2025/Exhibitor)
+- [Gulfood Manufacturing 2025 Exhibitor List – exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2025](https://exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2025/Exhibitor)
 
-- [Gulfood Manufacturing 2025 Exhibitor List – exhibitors.indopacificexpo.com.au/indo-pacific-2025](https://exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2025/Exhibitor)
+- [Gitex Nigeria 2025 Exhibitor List – exhibitors.gitex.com/gitex-nigeria-2025](https://exhibitors.gitex.com/gitex-nigeria-2025/Exhibitor)
 
 ---
 
