@@ -1,10 +1,6 @@
-## 🤖 [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
+## 🤖 [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2) — Trade Shows, Expos, Fairs & Exhibition Directories
 
-Simple web scraper for extracting exhibitor data from a specific type of trade show exhibitor lists provided by **Xporience**. Easily scrape company profiles including **company details, websites, social media links, product sectors**. 
-
-Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. Supports multiple **Xporience** exhibition websites with a consistent HTML structure.
-
-> [Apify](https://apify.com/) is a cloud platform and marketplace for web scraping and automation tools.
+Extract complete exhibitor lists from Xporience trade shows — including Gitex Global, Gitex Europe, Gitex Africa, Gitex Asia, Gulfood, Gisec Global, DIBS, AI MEA Egypt, and more — spanning automotive, technology, energy, food & beverage, and packaging industries. Scrape company profiles including company details, websites, social media links, product sectors, and brands. Ideal for B2B lead generation, sales prospecting, market research, event networking, and competitive analysis.
 
 ---
 
@@ -13,8 +9,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Features](#features)
 
 - [Use Cases](#use-cases)
-
-- [Supported Website Structure](#supported-website-structure)
 
 - [Supported Xporience Events (Exhibitor Lists)](#supported-xporience-events-exhibitor-lists)
 
@@ -60,21 +54,11 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 ---
 
-## Supported Website Structure
-
-- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Xporience exhibitor lists below.
-
-- Take a look at some of the event websites from the below list. Your event website URL might be in that list.
-
-- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
-
----
-
 ## Supported Xporience Events (Exhibitor Lists)
 
-> The following partial list includes Xporience exhibitor directory URLs that have been tested so far. Other Xporience events or different events with the same website structure may also be supported.
+- The following partial list includes Xporience exhibitor directory URLs that have been tested so far. Other Xporience events or different events with the same website structure may also be supported.
 
-> Some event URLs may have been updated or canceled entirely; please check them before using.
+- Some event URLs may have been updated or canceled entirely; please check them before using.
 
 - [Gitex Africa 2026 Exhibitor List – exhibitors.gitexafrica.com/gitex-africa-2026](https://exhibitors.gitexafrica.com/gitex-africa-2026/Exhibitor)
 
@@ -88,18 +72,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 - [GITEX GLOBAL 2026 Exhibitor List – exhibitors.gitex.com/gitex-global-2026](https://exhibitors.gitex.com/gitex-global-2026/Exhibitor)
 
-- [Gulfood 2026 Exhibitor List – exhibitors.gulfood.com/gulfood-2026](https://exhibitors.gulfood.com/gulfood-2026/Exhibitor)
-
-- [Gitex Future Health Africa 2026 Exhibitor List – exhibitors.gitexfuturehealth.com/gitex-future-health-africa-2026](https://exhibitors.gitexfuturehealth.com/gitex-future-health-africa-2026/Exhibitor)
-
-- [AI Everything Egypt 2026 Exhibitor List – exhibitors.aieverythingegypt.com/ai-mea-egypt-2026](https://exhibitors.aieverythingegypt.com/ai-mea-egypt-2026/Exhibitor)
-
-- [Gitex Asia 2026 Exhibitor List – exhibitors.gitexasia.com/gitex-asia-2026](https://exhibitors.gitexasia.com/gitex-asia-2026/Exhibitor)
-
-- [Gitex Nigeria 2026 Exhibitor List – exhibitors.gitex.com/gitex-nigeria-2026](https://exhibitors.gitex.com/gitex-nigeria-2026/Exhibitor)
-
-- [GITEX GLOBAL 2025 Exhibitor List – exhibitors.gitex.com/gitex-global-2025](https://exhibitors.gitex.com/gitex-global-2025/Exhibitor)
-
 - [Fintech Surge 2025 Exhibitor List – exhibitors.gitex.com/fintech-surge-2025](https://exhibitors.gitex.com/fintech-surge-2025/Exhibitor/)
 
 - [Future Blockchain Summit 2025 Exhibitor List – exhibitors.gitex.com/future-blockchain-summit-2025](https://exhibitors.gitex.com/future-blockchain-summit-2025/Exhibitor/)
@@ -112,11 +84,25 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 - [AI Everything GLOBAL 2025 Exhibitor List – exhibitors.gitex.com/ai-everything-global-2025](https://exhibitors.gitex.com/ai-everything-global-2025/Exhibitor/)
 
-- [Gitex Africa 2025 Exhibitor List – exhibitors.gitexafrica.com/gitex-africa-2025](https://exhibitors.gitexafrica.com/gitex-africa-2025/Exhibitor)
+- [Gulfood 2026 Exhibitor List – exhibitors.gulfood.com/gulfood-2026](https://exhibitors.gulfood.com/gulfood-2026/Exhibitor)
 
-- [Gulfood Manufacturing 2025 Exhibitor List – exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2025](https://exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2025/Exhibitor)
+- [Gitex Future Health Africa 2026 Exhibitor List – exhibitors.gitexfuturehealth.com/gitex-future-health-africa-2026](https://exhibitors.gitexfuturehealth.com/gitex-future-health-africa-2026/Exhibitor)
 
-- [Gitex Nigeria 2025 Exhibitor List – exhibitors.gitex.com/gitex-nigeria-2025](https://exhibitors.gitex.com/gitex-nigeria-2025/Exhibitor)
+- [AI Everything Egypt 2026 Exhibitor List – exhibitors.aieverythingegypt.com/ai-mea-egypt-2026](https://exhibitors.aieverythingegypt.com/ai-mea-egypt-2026/Exhibitor)
+
+- [Gitex Asia 2026 Exhibitor List – exhibitors.gitexasia.com/gitex-asia-2026](https://exhibitors.gitexasia.com/gitex-asia-2026/Exhibitor)
+
+- [Gitex Nigeria 2026 Exhibitor List – exhibitors.gitex.com/gitex-nigeria-2026](https://exhibitors.gitex.com/gitex-nigeria-2026/Exhibitor)
+
+- [Expand North Star 2026 Exhibitor List – exhibitors.expandnorthstar.com/expand-north-star-2026](https://exhibitors.expandnorthstar.com/expand-north-star-2026/Exhibitor)
+
+- [Gulfood Manufacturing 2026 Exhibitor List – exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2026](https://exhibitors.gulfoodmanufacturing.com/gulfood-manufacturing-2026/Exhibitor)
+
+- [SATEXPO 2026 Exhibitor List – exhibitors.satexpome.com/satexpo-2026](https://exhibitors.satexpome.com/satexpo-2026/Exhibitor)
+
+- [GITEX AI Türkiye 2026 Exhibitor List – exhibitors.gitexturkiye.com/gitex-turkiye-2026](https://exhibitors.gitexturkiye.com/gitex-turkiye-2026/Exhibitor)
+
+- [CABSAT 2026 Exhibitor List – exhibitors.cabsat.com/cabsat-2026](https://exhibitors.cabsat.com/cabsat-2026/Exhibitor)
 
 ---
 
@@ -261,3 +247,9 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Comexposium Exhibitor List Scraper V2](https://apify.com/skython/comexposium-exhibitor-list-scraper-2)
 
 - [Informa Markets Exhibitor List Scraper V3](https://apify.com/skython/informa-markets-exhibitor-list-scraper-3)
+
+- [LIVEBUZZ Exhibitor List Scraper](https://apify.com/skython/livebuzz-exhibitor-list-scraper)
+
+- [ASP Events Exhibitor List Scraper](https://apify.com/skython/asp-events-exhibitor-list-scraper)
+
+- [Fortem Exhibitor List Scraper](https://apify.com/skython/fortem-exhibitor-list-scraper)
